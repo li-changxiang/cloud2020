@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "com.atguigu.springcloud.config.DruidConfiguration",
+      "sourceType": "com.atguigu.springcloud.config.DruidConfiguration"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
